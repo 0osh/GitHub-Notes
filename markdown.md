@@ -12,3 +12,9 @@ insert code like `this`
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+# Lists
+
+- [x] support ooga booga
+- [x] ignore booga ooga
+- [ ] earn $8935673470349893270134781783481280412
